@@ -1,0 +1,31 @@
+P control:
+
+Kp = 0.0171
+2 x Kp = 0.0342
+
+D control:
+
+Kd = 0.003906
+5 x Kd = 0.01953
+
+PD control:
+
+Kp = 0.137
+Kd_under = 0.002176
+Kd_crit = 0.0109
+Kd_over = 0.0218
+
+Frequency response:
+
+Kp = 0.137
+Kd_under = 0.002176
+Kd_crit = 0.0109
+Kd_over = 0.0218
+
+PID control:
+
+Crit
+Kp = 0.137
+Kd = 0.0109
+Ki = 0.586
+2 x Ki = 1.172
